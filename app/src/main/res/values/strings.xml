@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">practika9_var4</string>
+    <string name="Fill_in_the_form">Заполните анкету</string>
+    <string name="Full_name">Введите ФИО</string>
+    <string name="Age">Введите возраст</string>
+    <string name="Gender">Впишите свой пол</string>
+    <string name="Phone_number">Введите свой номер телефона</string>
+    <string name="Email">Введите свою почту</string>
+    <string name="Next">Продолжить</string>
+    <string-array name="gender">
+        <item>М</item>
+        <item>Ж</item>
+    </string-array>
+</resources>
